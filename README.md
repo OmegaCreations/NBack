@@ -3,8 +3,8 @@ Dual N-Back task consists of a sequence of signals shown to you one by one.
 
 There are two types of signals in Dual N-Back (that's why Dual N-Back has "Dual" in its name):
 
-audio signals — these are the alphabet letter sounds
-visual signals — these are the blue squares shown on the training field
+**audio signals** — these are the alphabet letter sounds.
+**visual signals** — these are the blue squares shown on the training field
  
 
 In the process of training you have to match signals shown to you now to signals shown earlier. This is where N-Back comes to a game.
